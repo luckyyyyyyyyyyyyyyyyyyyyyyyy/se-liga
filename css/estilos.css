@@ -67,6 +67,6 @@ h1 {
 }
 
 .taamanho {
-  width: 40px;
-  height: 40px;
+  width: 100%;
+  padding: 20px;
 }
